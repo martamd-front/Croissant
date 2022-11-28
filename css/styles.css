@@ -1,0 +1,9 @@
+.container {
+  max-width: 800px !important;
+  margin: 30px auto;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 20px;
+}
